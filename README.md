@@ -3,7 +3,7 @@ Here is some stuff about me...
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning more HTML, CSS, and JavaScript
-- 👯 I’m learning multiple languages for expanding my knowledge
+- 👯 I’m learning multiple frameworks for expanding my knowledge
 - 💬 Ask me about anything I do, and I will do my best to answer it
 - 📫 How to reach me: Email, or send me a message on any of my socials
 - 😄 Pronouns: He/Him They/Them
