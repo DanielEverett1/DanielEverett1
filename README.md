@@ -9,4 +9,4 @@ Here is some stuff about me...
 - 😄 Pronouns: He/Him They/Them
 - ⚡ Fun fact: I started website development in high school of 2021 with a passion of doing construction, but website development soon took over 😌
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanielEverett1-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanielEverett1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
