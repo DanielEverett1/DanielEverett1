@@ -6,7 +6,7 @@ Here is some stuff about me...
 - 👯 I’m learning more frameworks for expanding my knowledge
 - 💬 Ask me about anything I do, and I will do my best to answer it
 - 📫 How to reach me: Email, or send me a message on any of my socials
-- 📫 My email is kittyads4@gmail.com
+- 📫 My email is mailto:kittyads4@gmail.com
 - 😄 Pronouns: He/Him They/Them
 - ⚡ Fun fact: I started website development in high school of 2021, but wanted to originally do C# 😌
 
