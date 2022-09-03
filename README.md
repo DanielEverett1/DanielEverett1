@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **through my portfolio**
 
-- 📄 Know about my experiences [check my portfolio](https://danielevveret1.github.io/)
+- 📄 Know about my experiences [at my portfolio](https://danielevveret1.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
