@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React JS, C#**
 
-- 👨‍💻 All of my projects are available at [https://danieleverett1.github.io/](https://danieleverett1.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://danieleverett1.github.io/)
 
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **through my portfolio**
 
-- 📄 Know about my experiences [check my portfolio](check my portfolio)
+- 📄 Know about my experiences [check my portfolio](https://danielevveret1.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
