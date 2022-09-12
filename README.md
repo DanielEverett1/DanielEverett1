@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieleverett1" alt="danieleverett1" /></a> </p>
 
+Check out my coding/programming server @ https://discord.gg/3AFVvsGe4x
+
 - 🔭 I’m currently working on [my portfolio](https://danieleverett1.github.io/)
 
 - 🌱 I’m currently learning **React JS, C#**
