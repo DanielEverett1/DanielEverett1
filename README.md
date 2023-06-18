@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieleverett1" alt="danieleverett1" /></a> </p>
 
-Check out my coding/programming server @ https://discord.gg/3AFVvsGe4x
+- 🔭 I’m currently working on [my portfolio](https://redpandadev.netlify.app/)
 
-- 🔭 I’m currently working on [my portfolio](https://danieleverett1.github.io/)
+- 🌱 I’m currently learning **JS, C#, C++, HTML, CSS**
 
-- 🌱 I’m currently learning **React JS, C#**
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://danieleverett1.github.io/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://redpandadev.netlify.app/)
 
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **through my portfolio**
 
-- 📄 Know about my experiences [at my portfolio](https://danielevveret1.github.io/)
+- 📄 Know about my experiences at [my portfolio](https://redpandadev.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
