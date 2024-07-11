@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Everett</h1>
-<h3 align="center">Front end web dev with very little framework knowledge</h3>
+<h3 align="center">Front End Web Dev, learning Back End</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleverett1&label=Profile%20views&color=0e75b6&style=flat" alt="danieleverett1" /> </p>-->
 
