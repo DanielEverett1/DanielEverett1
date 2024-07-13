@@ -12,3 +12,8 @@
 - 📫 How to reach me: **TBA**
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieleverett1&show_icons=true&locale=en" alt="danieleverett1" /></p>-->
+
+## Social Links
+
+- [Instagram](https://instagram.com/danieleverett9678)
+- [Github](https://github.com/DanielEverett1)
