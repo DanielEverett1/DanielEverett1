@@ -9,6 +9,6 @@
 
 - 🌱 I know the following languages and tools: **HTML, CSS, JS, TS, C++, Blender, Figma, Flutter, Dart**
 
-- 📫 How to reach me: TBA**
+- 📫 How to reach me: **TBA**
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieleverett1&show_icons=true&locale=en" alt="danieleverett1" /></p>-->
