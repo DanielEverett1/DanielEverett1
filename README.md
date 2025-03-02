@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniel Everett</h1>
 <h3 align="center">Front End Web Dev</h3>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N11AW1RI)
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleverett1&label=Profile%20views&color=0e75b6&style=flat" alt="danieleverett1" /> </p>-->
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('danieldono', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script><!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleverett1&label=Profile%20views&color=0e75b6&style=flat" alt="danieleverett1" /> </p>-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danieleverett1" alt="danieleverett1" /></a> </p>-->
 
